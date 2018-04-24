@@ -8,4 +8,9 @@
             android:layout_height="wrap_content"
             android:text="强制下线"
             android:id="@+id/force"/>
+        <Button
+            android:id="@+id/make_call"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Call"/>
 </LinearLayout>
